@@ -53,7 +53,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/94041396?v=4"  />
+<img align="right" height="150" src="https://farhanatifportfolio.netlify.app/static/media/profil2.92767122ac5803b70374.jpeg"  />
 
 ###
 
