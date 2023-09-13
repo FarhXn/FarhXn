@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an experienced developer skilled in web and Android app development. With expertise in technologies like PHP, Laravel, ASP .NET MVC, Django, React, Java, and Flutter many more, I create responsive, user-friendly software. I excel in problem-solving and collaborate effectively with cross-functional teams to deliver high-quality solutions
+I'm an experienced software developer having skills in web and Android app development, with expertise in technologies like PHP, Laravel, ASP .NET MVC, Django, React, Java, Flutter and many more, I create responsive, user-friendly solutions. I excel in problem-solving and collaborate effectively with cross-functional teams to deliver high-quality software solutions
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/farhan.atif.5036) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farhan._18._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farhanatif) 
